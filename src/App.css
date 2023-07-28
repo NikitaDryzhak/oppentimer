@@ -1,0 +1,25 @@
+.timer {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
+
+  background: url("../pic/cillian-murphy-oppenheimer.jpg") center;
+  background-size: cover;
+  text-align: center;
+}
+
+.timerCount {
+  font-size: 100px;
+  color: rgb(227, 230, 233);
+  font-weight: 600;
+  margin: 0;
+  padding-top: 80px;
+  font-family: Courier, serif;
+}
+
+@media screen and (max-width: 768px) {
+  .timerCount {
+    padding-top: 150px;
+    font-size: 60px;
+  }
+}
