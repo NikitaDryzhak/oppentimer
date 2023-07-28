@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oppentimer/static/css/main.f9ae16e2.css",
+    "main.js": "/oppentimer/static/js/main.2c59eb4e.js",
+    "static/js/787.4843424e.chunk.js": "/oppentimer/static/js/787.4843424e.chunk.js",
+    "static/media/cillian-murphy-oppenheimer.jpg": "/oppentimer/static/media/cillian-murphy-oppenheimer.0c3ec64b3c4d737d7060.jpg",
+    "index.html": "/oppentimer/index.html",
+    "main.f9ae16e2.css.map": "/oppentimer/static/css/main.f9ae16e2.css.map",
+    "main.2c59eb4e.js.map": "/oppentimer/static/js/main.2c59eb4e.js.map",
+    "787.4843424e.chunk.js.map": "/oppentimer/static/js/787.4843424e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9ae16e2.css",
+    "static/js/main.2c59eb4e.js"
+  ]
+}
